@@ -9,7 +9,7 @@ import VocabSection from "./components/VocabSection.jsx";
 import GrammarSection from "./components/GrammarSection.jsx";
 import Misc from "./pages/misc/Misc.jsx";
 import MiscForm from "./pages/misc/MiscForm.jsx";
-import "/home/myk/Desktop/Polish-Learning/src/CSS/App.css";
+import "./CSS/App.css";
 
 function App() {
   const [miscItems, setMiscItems] = useState([]);
