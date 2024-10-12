@@ -1,0 +1,107 @@
+[
+  {
+    "english": "price",
+    "polish": "cena",
+    "phonetic": "ˈt͡sɛna"
+  },
+  {
+    "english": "store",
+    "polish": "sklep",
+    "phonetic": "sklɛp"
+  },
+  {
+    "english": "discount",
+    "polish": "zniżka",
+    "phonetic": "ˈzɲiʂka"
+  },
+  {
+    "english": "cash",
+    "polish": "gotówka",
+    "phonetic": "ɡɔˈtufka"
+  },
+  {
+    "english": "receipt",
+    "polish": "paragon",
+    "phonetic": "paˈraɡɔn"
+  },
+  {
+    "english": "shopping",
+    "polish": "zakupy",
+    "phonetic": "zaˈkupɨ"
+  },
+  {
+    "english": "sale",
+    "polish": "wyprzedaż",
+    "phonetic": "vɨˈpʂɛdaʐ"
+  },
+  {
+    "english": "customer",
+    "polish": "klient",
+    "phonetic": "ˈklʲiɛnt"
+  },
+  {
+    "english": "product",
+    "polish": "produkt",
+    "phonetic": "ˈprɔdʊkt"
+  },
+  {
+    "english": "shopping cart",
+    "polish": "koszyk",
+    "phonetic": "ˈkɔʂɨk"
+  },
+  {
+    "english": "check out",
+    "polish": "kasa",
+    "phonetic": "ˈkasa"
+  },
+  {
+    "english": "money",
+    "polish": "pieniądze",
+    "phonetic": "pjɛˈɲɔnd͡zɛ"
+  },
+  {
+    "english": "size",
+    "polish": "rozmiar",
+    "phonetic": "ˈrɔzmʲar"
+  },
+  {
+    "english": "fit",
+    "polish": "pasować",
+    "phonetic": "paˈsɔvat͡ɕ"
+  },
+  {
+    "english": "color",
+    "polish": "kolor",
+    "phonetic": "ˈkɔlɔr"
+  },
+  {
+    "english": "quality",
+    "polish": "jakość",
+    "phonetic": "ˈjakɔɕt͡ɕ"
+  },
+  {
+    "english": "change",
+    "polish": "reszta",
+    "phonetic": "ˈrɛʂta"
+  },
+  {
+    "english": "bargain",
+    "polish": "okazja",
+    "phonetic": "ɔˈkaʑja"
+  },
+  {
+    "english": "gift",
+    "polish": "prezent",
+    "phonetic": "ˈprɛzɛnt"
+  },
+  {
+    "english": "fashion",
+    "polish": "moda",
+    "phonetic": "ˈmɔda"
+  },
+  {
+    "english": "purchase",
+    "polish": "zakup",
+    "phonetic": "ˈzakup"
+  }
+]

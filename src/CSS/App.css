@@ -1,0 +1,60 @@
+body {
+  background-color: #181818;
+  position: relative;
+  color: #e0e0e0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.App {
+  text-align: center;
+}
+
+nav.nav {
+  background-color: #1f1f1f;
+  padding: 1rem;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  margin-bottom: 5rem;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  color: #e0e0e0;
+  text-decoration: none;
+  font-size: 1.25rem;
+}
+
+nav a:hover {
+  color: #007bff;
+  text-decoration: underline;
+}
+
+nav .active {
+  font-weight: bold;
+  color: #bb86fc;
+}
+
+@media (max-width: 768px) {
+  nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+}

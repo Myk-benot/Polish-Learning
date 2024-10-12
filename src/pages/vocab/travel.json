@@ -1,0 +1,102 @@
+[
+  {
+    "english": "airport",
+    "polish": "lotnisko",
+    "phonetic": "lɔtˈɲiskɔ"
+  },
+  {
+    "english": "ticket",
+    "polish": "bilet",
+    "phonetic": "ˈbilɛt"
+  },
+  {
+    "english": "passport",
+    "polish": "paszport",
+    "phonetic": "ˈpaʂpɔrt"
+  },
+  {
+    "english": "hotel",
+    "polish": "hotel",
+    "phonetic": "ˈxɔtɛl"
+  },
+  {
+    "english": "reservation",
+    "polish": "rezerwacja",
+    "phonetic": "rɛzɛrˈvat͡sja"
+  },
+  {
+    "english": "flight",
+    "polish": "lot",
+    "phonetic": "lɔt"
+  },
+  {
+    "english": "boarding pass",
+    "polish": "karta pokładowa",
+    "phonetic": "ˈkarta pɔˈkladɔva"
+  },
+  {
+    "english": "luggage",
+    "polish": "bagaż",
+    "phonetic": "ˈbaɡaʐ"
+  },
+  {
+    "english": "destination",
+    "polish": "cel podróży",
+    "phonetic": "t͡sɛl pɔˈdruʐɨ"
+  },
+  {
+    "english": "train station",
+    "polish": "dworzec kolejowy",
+    "phonetic": "ˈdvɔʐɛt͡s kɔˈlɛjɔvɨ"
+  },
+  {
+    "english": "bus station",
+    "polish": "dworzec autobusowy",
+    "phonetic": "ˈdvɔʐɛt͡s autɔbuˈsɔvɨ"
+  },
+  {
+    "english": "road",
+    "polish": "droga",
+    "phonetic": "ˈdrɔɡa"
+  },
+  {
+    "english": "map",
+    "polish": "mapa",
+    "phonetic": "ˈmapa"
+  },
+  {
+    "english": "tour",
+    "polish": "wycieczka",
+    "phonetic": "vɨˈt͡ɕɛt͡ʂka"
+  },
+  {
+    "english": "guide",
+    "polish": "przewodnik",
+    "phonetic": "pʂɛvɔdˈnik"
+  },
+  {
+    "english": "travel",
+    "polish": "podróż",
+    "phonetic": "pɔˈdruʐ"
+  },
+  {
+    "english": "return",
+    "polish": "powrót",
+    "phonetic": "pɔˈvrut"
+  },
+  {
+    "english": "explore",
+    "polish": "zbadać",
+    "phonetic": "ˈzbadat͡ɕ"
+  },
+  {
+    "english": "adventure",
+    "polish": "przygoda",
+    "phonetic": "pʂɨˈɡɔda"
+  },
+  {
+    "english": "souvenir",
+    "polish": "pamiątka",
+    "phonetic": "paˈmʲɔntka"
+  }
+]

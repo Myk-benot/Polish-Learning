@@ -1,0 +1,102 @@
+[
+  {
+    "english": "sun",
+    "polish": "słońce",
+    "phonetic": "ˈswɔɲt͡sɛ"
+  },
+  {
+    "english": "rain",
+    "polish": "deszcz",
+    "phonetic": "dɛʂt͡ʂ"
+  },
+  {
+    "english": "wind",
+    "polish": "wiatr",
+    "phonetic": "vʲatr"
+  },
+  {
+    "english": "snow",
+    "polish": "śnieg",
+    "phonetic": "ɕɲɛɡ"
+  },
+  {
+    "english": "cloud",
+    "polish": "chmura",
+    "phonetic": "ˈxmura"
+  },
+  {
+    "english": "temperature",
+    "polish": "temperatura",
+    "phonetic": "tɛm.pɛ.raˈtu.ra"
+  },
+  {
+    "english": "storm",
+    "polish": "burza",
+    "phonetic": "ˈburʐa"
+  },
+  {
+    "english": "fog",
+    "polish": "mgła",
+    "phonetic": "mɡwa"
+  },
+  {
+    "english": "thunder",
+    "polish": "grzmot",
+    "phonetic": "ɡʐmɔt"
+  },
+  {
+    "english": "lightning",
+    "polish": "błyskawica",
+    "phonetic": "bɫɨskaˈvʲi.t͡sa"
+  },
+  {
+    "english": "heat",
+    "polish": "upał",
+    "phonetic": "ˈupaw"
+  },
+  {
+    "english": "cold",
+    "polish": "zimno",
+    "phonetic": "ˈʑimnɔ"
+  },
+  {
+    "english": "clear",
+    "polish": "bezchmurnie",
+    "phonetic": "bɛzˈxmurɲɛ"
+  },
+  {
+    "english": "overcast",
+    "polish": "pochmurno",
+    "phonetic": "pɔxˈmur.nɔ"
+  },
+  {
+    "english": "humidity",
+    "polish": "wilgotność",
+    "phonetic": "vʲilˈɡɔt.nɔɕt͡ɕ"
+  },
+  {
+    "english": "forecast",
+    "polish": "prognoza",
+    "phonetic": "prɔɡˈnɔ.za"
+  },
+  {
+    "english": "sunny",
+    "polish": "słonecznie",
+    "phonetic": "swɔˈnɛt͡ʂɲɛ"
+  },
+  {
+    "english": "drizzle",
+    "polish": "mżawka",
+    "phonetic": "mʐavka"
+  },
+  {
+    "english": "hurricane",
+    "polish": "huragan",
+    "phonetic": "huˈraɡan"
+  },
+  {
+    "english": "blizzard",
+    "polish": "zamieć",
+    "phonetic": "zaˈmʲɛt͡ɕ"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "english": "left",
+    "polish": "lewo",
+    "phonetic": "ˈlɛvɔ"
+  },
+  {
+    "english": "right",
+    "polish": "prawo",
+    "phonetic": "ˈpravɔ"
+  },
+  {
+    "english": "straight",
+    "polish": "prosto",
+    "phonetic": "ˈprɔstɔ"
+  },
+  {
+    "english": "back",
+    "polish": "wstecz",
+    "phonetic": "fstɛt͡ʂ"
+  },
+  {
+    "english": "turn",
+    "polish": "skręć",
+    "phonetic": "skrɛɲt͡ɕ"
+  },
+  {
+    "english": "up",
+    "polish": "w górę",
+    "phonetic": "v ˈɡurɛ"
+  },
+  {
+    "english": "down",
+    "polish": "w dół",
+    "phonetic": "v duw"
+  },
+  {
+    "english": "near",
+    "polish": "blisko",
+    "phonetic": "ˈbliskɔ"
+  },
+  {
+    "english": "far",
+    "polish": "daleko",
+    "phonetic": "daˈlɛkɔ"
+  },
+  {
+    "english": "here",
+    "polish": "tutaj",
+    "phonetic": "ˈtutaj"
+  },
+  {
+    "english": "there",
+    "polish": "tam",
+    "phonetic": "tam"
+  },
+  {
+    "english": "over",
+    "polish": "nad",
+    "phonetic": "nat"
+  },
+  {
+    "english": "under",
+    "polish": "pod",
+    "phonetic": "pɔt"
+  },
+  {
+    "english": "inside",
+    "polish": "wewnątrz",
+    "phonetic": "vɛvˈnɔnt͡ʂ"
+  },
+  {
+    "english": "outside",
+    "polish": "na zewnątrz",
+    "phonetic": "na ˈzɛv.nɔnt͡ʂ"
+  },
+  {
+    "english": "above",
+    "polish": "ponad",
+    "phonetic": "ˈpɔ.nat"
+  },
+  {
+    "english": "below",
+    "polish": "poniżej",
+    "phonetic": "pɔˈɲiʐɛj"
+  },
+  {
+    "english": "between",
+    "polish": "pomiędzy",
+    "phonetic": "pɔˈmjɛn.d͡zɨ"
+  },
+  {
+    "english": "around",
+    "polish": "dookoła",
+    "phonetic": "dɔˈɔkɔwa"
+  },
+  {
+    "english": "next to",
+    "polish": "obok",
+    "phonetic": "ˈɔbɔk"
+  }
+]

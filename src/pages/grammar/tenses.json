@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Select the correct Polish translation for 'She is reading a book.'",
+    "options": [
+      "Ona czytała książkę.",
+      "Ona będzie czytać książkę.",
+      "Ona czyta książkę.",
+      "Ona przeczytała książkę."
+    ],
+    "correctAnswer": "Ona czyta książkę."
+  },
+  {
+    "question": "Which of the following is a correct present tense conjugation in Polish for 'to eat'?",
+    "options": ["Ja jem", "Ja jadłem", "Ja zjem", "Ja będę jadł"],
+    "correctAnswer": "Ja jem"
+  },
+  {
+    "question": "What is the present tense form of 'to be' for 'we' in Polish?",
+    "options": ["My byliśmy", "My będziemy", "My jesteśmy", "My byłybyśmy"],
+    "correctAnswer": "My jesteśmy"
+  },
+  {
+    "question": "Choose the correct present tense form of the verb 'to go' (iść) in Polish for 'you (singular)':",
+    "options": [
+      "Ty poszedłeś",
+      "Ty pójdziesz",
+      "Ty idziesz",
+      "Ty będziesz szedł"
+    ],
+    "correctAnswer": "Ty idziesz"
+  },
+  {
+    "question": "Which sentence is in the past tense?",
+    "options": [
+      "I will go to the store.",
+      "I went to the store.",
+      "I am going to the store.",
+      "I am going to go to the store."
+    ],
+    "correctAnswer": "I went to the store."
+  },
+  {
+    "question": "Select the correct Polish translation for 'I was at home.'",
+    "options": [
+      "Byłem w domu.",
+      "Będę w domu.",
+      "Jestem w domu.",
+      "Będę w domu."
+    ],
+    "correctAnswer": "Byłem w domu."
+  },
+  {
+    "question": "Which of the following is a correct past tense conjugation in Polish for 'to eat'?",
+    "options": ["Ja jem", "Ja jadłem", "Ja zjem", "Ja będę jadł"],
+    "correctAnswer": "Ja jadłem"
+  },
+  {
+    "question": "What is the past tense form of 'to be' for 'they' in Polish?",
+    "options": ["Oni byli", "Oni będą", "Oni są", "Oni będą być"],
+    "correctAnswer": "Oni byli"
+  },
+  {
+    "question": "Choose the correct past tense form of the verb 'to go' (iść) in Polish for 'I':",
+    "options": ["Ja idę", "Ja poszedłem", "Ja pójdę", "Ja będę szedł"],
+    "correctAnswer": "Ja poszedłem"
+  },
+  {
+    "question": "Which sentence is in the future tense?",
+    "options": [
+      "I am going to the store.",
+      "I went to the store.",
+      "I will go to the store.",
+      "I was at the store."
+    ],
+    "correctAnswer": "I will go to the store."
+  },
+  {
+    "question": "Select the correct Polish translation for 'I will read a book.'",
+    "options": [
+      "Ja czytam książkę.",
+      "Ja czytałem książkę.",
+      "Ja będę czytać książkę.",
+      "Ja przeczytałem książkę."
+    ],
+    "correctAnswer": "Ja będę czytać książkę."
+  },
+  {
+    "question": "Which of the following is a correct future tense conjugation in Polish for 'to eat'?",
+    "options": ["Ja jem", "Ja jadłem", "Ja zjem", "Ja będę jadł"],
+    "correctAnswer": "Ja będę jadł"
+  },
+  {
+    "question": "What is the future tense form of 'to be' for 'you (plural)' in Polish?",
+    "options": ["Wy byliście", "Wy będziecie", "Wy jesteście", "Wy byliście"],
+    "correctAnswer": "Wy będziecie"
+  },
+  {
+    "question": "Choose the correct future tense form of the verb 'to go' (iść) in Polish for 'they':",
+    "options": ["Oni idą", "Oni poszli", "Oni pójdą", "Oni będą szli"],
+    "correctAnswer": "Oni pójdą"
+  }
+]

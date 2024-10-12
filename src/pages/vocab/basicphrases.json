@@ -1,0 +1,102 @@
+[
+  {
+    "english": "please",
+    "polish": "proszę",
+    "phonetic": "ˈprɔʂɛ"
+  },
+  {
+    "english": "thank you",
+    "polish": "dziękuję",
+    "phonetic": "d͡ʑɛŋˈkujɛ"
+  },
+  {
+    "english": "yes",
+    "polish": "tak",
+    "phonetic": "tak"
+  },
+  {
+    "english": "no",
+    "polish": "nie",
+    "phonetic": "ɲɛ"
+  },
+  {
+    "english": "excuse me",
+    "polish": "przepraszam",
+    "phonetic": "pʂɛˈpraʂam"
+  },
+  {
+    "english": "hello",
+    "polish": "cześć",
+    "phonetic": "t͡ʂɛɕt͡ɕ"
+  },
+  {
+    "english": "goodbye",
+    "polish": "do widzenia",
+    "phonetic": "dɔ viˈd͡zɛɲa"
+  },
+  {
+    "english": "good morning",
+    "polish": "dzień dobry",
+    "phonetic": "d͡ʑɛɲ ˈdɔbrɨ"
+  },
+  {
+    "english": "good night",
+    "polish": "dobranoc",
+    "phonetic": "dɔˈbranɔt͡s"
+  },
+  {
+    "english": "how are you",
+    "polish": "jak się masz",
+    "phonetic": "jak ɕɛ maʂ"
+  },
+  {
+    "english": "I am",
+    "polish": "jestem",
+    "phonetic": "ˈjɛstɛm"
+  },
+  {
+    "english": "my name is",
+    "polish": "nazywam się",
+    "phonetic": "naˈzɨvam ɕɛ"
+  },
+  {
+    "english": "nice to meet you",
+    "polish": "miło mi",
+    "phonetic": "ˈmiwɔ mi"
+  },
+  {
+    "english": "sorry",
+    "polish": "przykro mi",
+    "phonetic": "ˈpʂɨkrɔ mi"
+  },
+  {
+    "english": "where is",
+    "polish": "gdzie jest",
+    "phonetic": "ɡd͡ʑɛ jɛst"
+  },
+  {
+    "english": "I don't understand",
+    "polish": "nie rozumiem",
+    "phonetic": "ɲɛ rɔˈzumjɛm"
+  },
+  {
+    "english": "do you speak English",
+    "polish": "czy mówisz po angielsku",
+    "phonetic": "t͡ʂɨ ˈmuvjɨʂ pɔ anˈɡʲɛlsku"
+  },
+  {
+    "english": "how much is it",
+    "polish": "ile to kosztuje",
+    "phonetic": "ˈilɛ tɔ kɔʂˈtujɛ"
+  },
+  {
+    "english": "water",
+    "polish": "woda",
+    "phonetic": "ˈvɔda"
+  },
+  {
+    "english": "food",
+    "polish": "jedzenie",
+    "phonetic": "jɛˈd͡zɛɲɛ"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "english": "doctor",
+    "polish": "lekarz",
+    "phonetic": "ˈlɛkaʂ"
+  },
+  {
+    "english": "medicine",
+    "polish": "lekarstwo",
+    "phonetic": "lɛˈkarstvɔ"
+  },
+  {
+    "english": "pharmacy",
+    "polish": "apteka",
+    "phonetic": "apˈtɛka"
+  },
+  {
+    "english": "hospital",
+    "polish": "szpital",
+    "phonetic": "ˈʂpital"
+  },
+  {
+    "english": "pain",
+    "polish": "ból",
+    "phonetic": "bul"
+  },
+  {
+    "english": "nurse",
+    "polish": "pielęgniarka",
+    "phonetic": "pʲɛlɛŋɲˈarka"
+  },
+  {
+    "english": "appointment",
+    "polish": "wizyta",
+    "phonetic": "viˈzɨta"
+  },
+  {
+    "english": "prescription",
+    "polish": "recepta",
+    "phonetic": "rɛˈt͡sɛpta"
+  },
+  {
+    "english": "health",
+    "polish": "zdrowie",
+    "phonetic": "ˈzdrɔvjɛ"
+  },
+  {
+    "english": "sick",
+    "polish": "chory",
+    "phonetic": "ˈxɔrɨ"
+  },
+  {
+    "english": "clinic",
+    "polish": "klinika",
+    "phonetic": "kliˈnika"
+  },
+  {
+    "english": "emergency",
+    "polish": "nagły wypadek",
+    "phonetic": "ˈnaɡwɨ vɨˈpadɛk"
+  },
+  {
+    "english": "ambulance",
+    "polish": "karetka",
+    "phonetic": "kaˈrɛtka"
+  },
+  {
+    "english": "surgery",
+    "polish": "operacja",
+    "phonetic": "ɔpɛˈrat͡sja"
+  },
+  {
+    "english": "fever",
+    "polish": "gorączka",
+    "phonetic": "ɡɔˈrɔnt͡ʂka"
+  },
+  {
+    "english": "cold",
+    "polish": "przeziębienie",
+    "phonetic": "pʂɛʑɛmˈbjɛɲɛ"
+  },
+  {
+    "english": "headache",
+    "polish": "ból głowy",
+    "phonetic": "bul ˈɡwɔvɨ"
+  },
+  {
+    "english": "infection",
+    "polish": "infekcja",
+    "phonetic": "inˈfɛkt͡sja"
+  },
+  {
+    "english": "symptoms",
+    "polish": "objawy",
+    "phonetic": "ɔbˈjavɨ"
+  },
+  {
+    "english": "allergy",
+    "polish": "alergia",
+    "phonetic": "aˈlɛrɡja"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the Polish pronoun for 'I'?",
+    "options": ["On", "Ty", "Ja", "My"],
+    "correctAnswer": "Ja"
+  },
+  {
+    "question": "Which Polish pronoun means 'they' (masculine)?",
+    "options": ["Oni", "One", "My", "Ty"],
+    "correctAnswer": "Oni"
+  },
+  {
+    "question": "Select the correct Polish pronoun for 'you' (singular).",
+    "options": ["Wy", "Ty", "On", "My"],
+    "correctAnswer": "Ty"
+  },
+  {
+    "question": "What is the Polish pronoun for 'we'?",
+    "options": ["My", "Oni", "Ty", "Ja"],
+    "correctAnswer": "My"
+  },
+  {
+    "question": "Choose the correct Polish pronoun for 'she'.",
+    "options": ["Ona", "On", "Ty", "My"],
+    "correctAnswer": "Ona"
+  }
+]

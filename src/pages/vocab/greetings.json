@@ -1,0 +1,107 @@
+[
+  {
+    "english": "hello",
+    "polish": "cześć",
+    "phonetic": "ˈt͡ʂɛɕt͡ɕ"
+  },
+  {
+    "english": "good morning",
+    "polish": "dzień dobry",
+    "phonetic": "d͡ʑɛɲ ˈdɔbrɨ"
+  },
+  {
+    "english": "good evening",
+    "polish": "dobry wieczór",
+    "phonetic": "ˈdɔbrɨ ˈvjɛt͡ʂur"
+  },
+  {
+    "english": "good night",
+    "polish": "dobranoc",
+    "phonetic": "dɔˈbranɔt͡s"
+  },
+  {
+    "english": "goodbye",
+    "polish": "do widzenia",
+    "phonetic": "dɔ vʲidˈzɛɲa"
+  },
+  {
+    "english": "hi",
+    "polish": "hej",
+    "phonetic": "hej"
+  },
+  {
+    "english": "welcome",
+    "polish": "witaj",
+    "phonetic": "ˈvitaj"
+  },
+  {
+    "english": "how are you",
+    "polish": "jak się masz",
+    "phonetic": "jak ɕɛ maʂ"
+  },
+  {
+    "english": "nice to meet you",
+    "polish": "miło mi",
+    "phonetic": "ˈmiwɔ mi"
+  },
+  {
+    "english": "see you later",
+    "polish": "do zobaczenia",
+    "phonetic": "dɔ zɔbat͡ʂɛɲa"
+  },
+  {
+    "english": "see you soon",
+    "polish": "do zobaczenia wkrótce",
+    "phonetic": "dɔ zɔbat͡ʂɛɲa ˈvkrut͡sɛ"
+  },
+  {
+    "english": "take care",
+    "polish": "trzymaj się",
+    "phonetic": "ˈtʂɨmaj ɕɛ"
+  },
+  {
+    "english": "good day",
+    "polish": "dobrej drogi",
+    "phonetic": "ˈdɔbrɛj ˈdrɔɡʲi"
+  },
+  {
+    "english": "good afternoon",
+    "polish": "dobrego popołudnia",
+    "phonetic": "dɔˈbrɛɡɔ pɔpɔˈwudɲa"
+  },
+  {
+    "english": "happy to see you",
+    "polish": "cieszę się, że cię widzę",
+    "phonetic": "ˈt͡ɕɛʂɛ ɕɛ ʐɛ t͡ɕɛ ˈvid͡zɛ"
+  },
+  {
+    "english": "how have you been",
+    "polish": "jak się masz",
+    "phonetic": "jak ɕɛ maʂ"
+  },
+  {
+    "english": "long time no see",
+    "polish": "dawno się nie widzieliśmy",
+    "phonetic": "ˈdavno ɕɛ ɲɛ vʲid͡ʑɛˈlʲiɕmɨ"
+  },
+  {
+    "english": "good to see you",
+    "polish": "dobrze cię widzieć",
+    "phonetic": "ˈdɔbʐɛ t͡ɕɛ ˈvid͡ʑɛt͡ɕ"
+  },
+  {
+    "english": "have a good day",
+    "polish": "miłego dnia",
+    "phonetic": "miˈwɛɡɔ ˈdɲa"
+  },
+  {
+    "english": "have a nice evening",
+    "polish": "miłego wieczoru",
+    "phonetic": "miˈwɛɡɔ vʲɛˈt͡ʂɔru"
+  },
+  {
+    "english": "have a good night",
+    "polish": "dobranoc",
+    "phonetic": "dɔˈbranɔt͡s"
+  }
+]

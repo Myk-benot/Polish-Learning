@@ -1,0 +1,55 @@
+.vocab-home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 70vh;
+}
+
+.vocab-home-div {
+  padding: 20px;
+  border-radius: 8px;
+  min-width: 75%;
+}
+
+.vocab-home-container h1 {
+  color: #007bff;
+}
+
+.vocab-home-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.vocab-home-list li {
+  margin: 5px 0;
+}
+
+.vocab-home-list li a {
+  display: block;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.vocab-home-list li a:hover {
+  background-color: #0056b3;
+}
+
+@media (max-width: 768px) {
+  .vocab-home-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .vocab-home-list {
+    grid-template-columns: 1fr;
+  }
+}

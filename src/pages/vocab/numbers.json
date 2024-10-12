@@ -1,0 +1,247 @@
+[
+  {
+    "english": "one",
+    "polish": "jeden",
+    "phonetic": "ˈjɛdɛn"
+  },
+  {
+    "english": "two",
+    "polish": "dwa",
+    "phonetic": "dva"
+  },
+  {
+    "english": "three",
+    "polish": "trzy",
+    "phonetic": "tʂɨ"
+  },
+  {
+    "english": "four",
+    "polish": "cztery",
+    "phonetic": "ˈt͡ʂtɛrɨ"
+  },
+  {
+    "english": "five",
+    "polish": "pięć",
+    "phonetic": "pjɛɲt͡ɕ"
+  },
+  {
+    "english": "six",
+    "polish": "sześć",
+    "phonetic": "ʂɛɕt͡ɕ"
+  },
+  {
+    "english": "seven",
+    "polish": "siedem",
+    "phonetic": "ˈɕɛdɛm"
+  },
+  {
+    "english": "eight",
+    "polish": "osiem",
+    "phonetic": "ˈɔɕɛm"
+  },
+  {
+    "english": "nine",
+    "polish": "dziewięć",
+    "phonetic": "d͡ʑɛˈvʲɛɲt͡ɕ"
+  },
+  {
+    "english": "ten",
+    "polish": "dziesięć",
+    "phonetic": "d͡ʑɛˈɕɛɲt͡ɕ"
+  },
+  {
+    "english": "eleven",
+    "polish": "jedenaście",
+    "phonetic": "jɛdɛˈnaɕt͡ɕɛ"
+  },
+  {
+    "english": "twelve",
+    "polish": "dwanaście",
+    "phonetic": "dvaˈnaɕt͡ɕɛ"
+  },
+  {
+    "english": "thirteen",
+    "polish": "trzynaście",
+    "phonetic": "tʂɨˈnaɕt͡ɕɛ"
+  },
+  {
+    "english": "fourteen",
+    "polish": "czternaście",
+    "phonetic": "t͡ʂtɛˈnaɕt͡ɕɛ"
+  },
+  {
+    "english": "fifteen",
+    "polish": "piętnście",
+    "phonetic": "pjɛt͡ɕˈnaɕt͡ɕɛ"
+  },
+  {
+    "english": "twenty",
+    "polish": "dwadzieścia",
+    "phonetic": "dvaˈdʑɛɕt͡ɕa"
+  },
+  {
+    "english": "thirty",
+    "polish": "trzydzieści",
+    "phonetic": "tʂɨˈd͡ʑɛɕt͡ɕi"
+  },
+  {
+    "english": "forty",
+    "polish": "czterdzieści",
+    "phonetic": "t͡ʂtɛrˈd͡ʑɛɕt͡ɕi"
+  },
+  {
+    "english": "fifty",
+    "polish": "pięćdziesiąt",
+    "phonetic": "pjɛɲˈd͡ʑɛʃɔnt"
+  },
+  {
+    "english": "seventy-eight",
+    "polish": "siedemdziesiąt osiem",
+    "phonetic": "ɕjɛ.dɛm.d͡ʑɛ.ɕɔnt ɔ.ɕɛm"
+  },
+  {
+    "english": "fifty-eight",
+    "polish": "pięćdziesiąt osiem",
+    "phonetic": "pjɛɲ.d͡ʑɛ.ɕɔnt ɔ.ɕɛm"
+  },
+  {
+    "english": "seventy-three",
+    "polish": "siedemdziesiąt trzy",
+    "phonetic": "ɕjɛ.dɛm.d͡ʑɛ.ɕɔnt tʂɨ"
+  },
+  {
+    "english": "ninety-one",
+    "polish": "dziewięćdziesiąt jeden",
+    "phonetic": "d͡ʑɛ.vʲɛɲ.d͡ʑɛ.ɕɔnt ˈjɛ.dɛn"
+  },
+  {
+    "english": "seventy-seven",
+    "polish": "siedemdziesiąt siedem",
+    "phonetic": "ɕjɛ.dɛm.d͡ʑɛ.ɕɔnt ˈɕjɛ.dɛm"
+  },
+  {
+    "english": "one hundred three",
+    "polish": "sto trzy",
+    "phonetic": "stɔ tʂɨ"
+  },
+  {
+    "english": "eighty-seven",
+    "polish": "osiemdziesiąt siedem",
+    "phonetic": "ɔ.ɕɛm.d͡ʑɛ.ɕɔnt ˈɕjɛ.dɛm"
+  },
+  {
+    "english": "fifty-three",
+    "polish": "pięćdziesiąt trzy",
+    "phonetic": "pjɛɲ.d͡ʑɛ.ɕɔnt tʂɨ"
+  },
+  {
+    "english": "thirty-three",
+    "polish": "trzydzieści trzy",
+    "phonetic": "tʂɨ.d͡ʑɛɕ.tʂɨ tʂɨ"
+  },
+  {
+    "english": "forty-three",
+    "polish": "czterdzieści trzy",
+    "phonetic": "t͡ʂtɛr.d͡ʑɛɕ.tʂɨ tʂɨ"
+  },
+  {
+    "english": "twenty-seven",
+    "polish": "dwadzieścia siedem",
+    "phonetic": "dva.d͡ʑɛɕ.tʂa ˈɕjɛ.dɛm"
+  },
+  {
+    "english": "forty-four",
+    "polish": "czterdzieści cztery",
+    "phonetic": "t͡ʂtɛr.d͡ʑɛɕ.tʂɨ ˈt͡ʂtɛ.rɨ"
+  },
+  {
+    "english": "one hundred thirteen",
+    "polish": "sto trzynaście",
+    "phonetic": "stɔ tʂɨˈnaɕ.t͡ɕɛ"
+  },
+  {
+    "english": "one hundred five",
+    "polish": "sto pięć",
+    "phonetic": "stɔ pjɛɲt͡ɕ"
+  },
+  {
+    "english": "ninety-nine",
+    "polish": "dziewięćdziesiąt dziewięć",
+    "phonetic": "d͡ʑɛ.vʲɛɲ.d͡ʑɛ.ɕɔnt d͡ʑɛ.vʲɛɲt͡ɕ"
+  },
+  {
+    "english": "one hundred sixteen",
+    "polish": "sto szesnaście",
+    "phonetic": "stɔ ʂɛsˈnaɕ.t͡ɕɛ"
+  },
+  {
+    "english": "fifty-five",
+    "polish": "pięćdziesiąt pięć",
+    "phonetic": "pjɛɲ.d͡ʑɛ.ɕɔnt pjɛɲt͡ɕ"
+  },
+  {
+    "english": "twenty-four",
+    "polish": "dwadzieścia cztery",
+    "phonetic": "dva.d͡ʑɛɕ.tʂa ˈt͡ʂtɛ.rɨ"
+  },
+  {
+    "english": "one hundred five",
+    "polish": "sto pięć",
+    "phonetic": "stɔ pjɛɲt͡ɕ"
+  },
+  {
+    "english": "one hundred seventy-one",
+    "polish": "sto siedemdziesiąt jeden",
+    "phonetic": "stɔ ɕjɛ.dɛm.d͡ʑɛ.ɕɔnt ˈjɛ.dɛn"
+  },
+  {
+    "english": "one hundred sixty-one",
+    "polish": "sto sześćdziesiąt jeden",
+    "phonetic": "stɔ ʂɛɕ.d͡ʑɛ.ɕɔnt ˈjɛ.dɛn"
+  },
+  {
+    "english": "sixty-three",
+    "polish": "sześćdziesiąt trzy",
+    "phonetic": "ʂɛɕ.d͡ʑɛ.ɕɔnt tʂɨ"
+  },
+  {
+    "english": "twenty-four",
+    "polish": "dwadzieścia cztery",
+    "phonetic": "dva.d͡ʑɛɕ.tʂa ˈt͡ʂtɛ.rɨ"
+  },
+  {
+    "english": "thirty",
+    "polish": "trzydzieści",
+    "phonetic": "tʂɨ.d͡ʑɛɕ.tɕ"
+  },
+  {
+    "english": "sixteen",
+    "polish": "szesnaście",
+    "phonetic": "ʂɛsˈnaɕ.t͡ɕɛ"
+  },
+  {
+    "english": "one hundred thirteen",
+    "polish": "sto trzynaście",
+    "phonetic": "stɔ tʂɨˈnaɕ.t͡ɕɛ"
+  },
+  {
+    "english": "ninety-one",
+    "polish": "dziewięćdziesiąt jeden",
+    "phonetic": "d͡ʑɛ.vʲɛɲ.d͡ʑɛ.ɕɔnt ˈjɛ.dɛn"
+  },
+  {
+    "english": "one hundred nine",
+    "polish": "sto dziewięć",
+    "phonetic": "stɔ d͡ʑɛ.vʲɛɲt͡ɕ"
+  },
+  {
+    "english": "seventy-six",
+    "polish": "siedemdziesiąt sześć",
+    "phonetic": "ɕjɛ.dɛm.d͡ʑɛ.ɕɔnt ʂɛɕt͡ɕ"
+  },
+  {
+    "english": "one hundred forty",
+    "polish": "sto czterdzieści",
+    "phonetic": "stɔ t͡ʂtɛr.d͡ʑɛɕ.tɕi"
+  }
+]

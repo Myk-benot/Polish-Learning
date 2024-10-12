@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which preposition means 'under' in Polish?",
+    "options": ["Na", "Pod", "W", "Za"],
+    "correctAnswer": "Pod"
+  },
+  {
+    "question": "Select the correct Polish preposition for 'on the table'.",
+    "options": ["Na stole", "Pod stołem", "W stole", "Za stołem"],
+    "correctAnswer": "Na stole"
+  },
+  {
+    "question": "What is the Polish preposition for 'in the house'?",
+    "options": ["W domu", "Na domu", "Pod domu", "Za domu"],
+    "correctAnswer": "W domu"
+  },
+  {
+    "question": "Choose the correct Polish preposition for 'behind the car':",
+    "options": [
+      "Za samochodem",
+      "Na samochodem",
+      "Pod samochodem",
+      "W samochodem"
+    ],
+    "correctAnswer": "Za samochodem"
+  },
+  {
+    "question": "Which preposition is used for 'in front of' in Polish?",
+    "options": ["Na", "W", "Pod", "Przed"],
+    "correctAnswer": "Przed"
+  }
+]

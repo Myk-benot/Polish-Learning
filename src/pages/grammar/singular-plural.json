@@ -1,0 +1,28 @@
+ [
+    {
+      "question": "What is the plural form of 'book' in Polish?",
+      "options": ["Książka", "Książki", "Książek", "Książkały"],
+      "correctAnswer": "Książki"
+    },
+    {
+      "question": "Which word is singular in Polish?",
+      "options": ["Domy", "Koty", "Samochód", "Dzieci"],
+      "correctAnswer": "Samochód"
+    },
+    {
+      "question": "Select the correct plural form of 'apple' in Polish.",
+      "options": ["Jabłko", "Jabłka", "Jabłek", "Jabłk"],
+      "correctAnswer": "Jabłka"
+    },
+    {
+      "question": "What is the singular form of 'people' in Polish?",
+      "options": ["Ludzie", "Osoby", "Ludź", "Osoba"],
+      "correctAnswer": "Osoba"
+    },
+    {
+      "question": "Choose the correct plural form of 'city' in Polish.",
+      "options": ["Miasto", "Miasta", "Miast", "Miastały"],
+      "correctAnswer": "Miasta"
+    }
+  ]
+
