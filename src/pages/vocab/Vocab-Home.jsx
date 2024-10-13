@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "/home/myk/Desktop/Polish-Learning/src/CSS/vocab-home.css";
+import "/src/CSS/vocab-home.css";
 
 function VocabHome() {
   return (

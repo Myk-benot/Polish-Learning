@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "/home/myk/Desktop/Polish-Learning/src/CSS/grammarHome.css";
+import "/src/CSS/grammarHome.css";
 
 function GrammarHome() {
   return (

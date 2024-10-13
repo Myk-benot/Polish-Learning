@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import "/home/myk/Desktop/Polish-Learning/src/CSS/misc.css";
+import "/src/CSS/misc.css";
 
 const Misc = () => {
   const [miscItems, setMiscItems] = useState([]);

@@ -1,5 +1,5 @@
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import "/home/myk/Desktop/Polish-Learning/src/CSS/footer.css";
+import "/src/CSS/footer.css";
 
 function Footer() {
   return (

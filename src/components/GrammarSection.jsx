@@ -1,6 +1,6 @@
 import { useState } from "react";
 import data from "../pages/grammar/grammar-index.js";
-import "/home/myk/Desktop/Polish-Learning/src/CSS/grammar-section.css";
+import "/src/CSS/grammar-section.css";
 
 function GrammarSection({ section }) {
   const [currentIndex, setCurrentIndex] = useState(0);

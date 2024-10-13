@@ -1,4 +1,4 @@
-import "/home/myk/Desktop/Polish-Learning/src/CSS/VoiceButton.css";
+import "/src/CSS/VoiceButton.css";
 
 function VoiceButton({ section, text }) {
   const sanitizeFilename = (filename) => {

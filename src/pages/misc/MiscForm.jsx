@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "/home/myk/Desktop/Polish-Learning/src/CSS/MiscForm.css";
+import "/src/CSS/MiscForm.css";
 
 const MiscForm = ({ onAddMisc }) => {
   const [english, setEnglish] = useState("");

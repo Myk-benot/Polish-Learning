@@ -1,4 +1,4 @@
-import "/home/myk/Desktop/Polish-Learning/src/CSS/Home.css";
+import "../CSS/Home.css";
 import { GiPoland } from "react-icons/gi";
 import { GoBook } from "react-icons/go";
 import { TbAbc } from "react-icons/tb";
